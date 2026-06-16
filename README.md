@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hardware+Engineer;Microcontroller+Developer;Pre-Silicon+%26+Post-Silicon+Validation;Embedded+Systems+Engineer;Serial+Interface+Specialist;AI+%7C+IoT+%7C+Computer+Vision;Building+Intelligent+Edge+Systems" />
 
-# ⚡ Hardware Engineer | Embedded Systems Developer ⚡
+# ⚡Senior Hardware Engineer | AI Enthusiast  ⚡
 
 ### Building Intelligent Systems from Silicon to Edge AI
 
@@ -68,11 +68,12 @@ Mission:
 
 ### Communication Protocols
 
-![I2C](https://img.shields.io/badge/I2C-0066CC?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-8E44AD?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-16A085?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN-F39C12?style=for-the-badge)
-![USB](https://img.shields.io/badge/USB-2ECC71?style=for-the-badge)
+![LIN](https://img.shields.io/badge/LIN-8E44AD?style=for-the-badge)
+![PSI5](https://img.shields.io/badge/PSI5-8E44AD?style=for-the-badge)
+![ETHERNET](https://img.shields.io/badge/ETHERNET-8E44AD?style=for-the-badge)
+![FLEXRAY](https://img.shields.io/badge/FLEXRAY-8E44AD?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-8E44AD?style=for-the-badge)
 
 ### AI • IoT • Vision
 
@@ -88,7 +89,7 @@ Mission:
 ```text
 ⚡ Microcontroller Development
 🔬 Pre-Silicon & Post-Silicon Validation
-📡 Serial Interface Protocols (I2C, SPI, UART, CAN, USB)
+📡 Serial Interface Protocols
 🛠️ Embedded Firmware Development
 🌐 IoT & Connected Systems
 👁️ Computer Vision Applications
