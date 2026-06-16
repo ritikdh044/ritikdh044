@@ -4,13 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hardware+Engineer;Microcontroller+Developer;Pre-Silicon+%26+Post-Silicon+Validation;Embedded+Systems+Engineer;Serial+Interface+Specialist;AI+%7C+IoT+%7C+Computer+Vision;Building+Intelligent+Edge+Systems" />
 
+# ⚡ Hardware Engineer | Embedded Systems Developer ⚡
+
+### Building Intelligent Systems from Silicon to Edge AI
+
 </div>
-
-<h1 align="center">⚡ Hardware Engineer | Embedded Systems Developer ⚡</h1>
-
-<p align="center">
-From <b>Silicon Validation</b> to <b>AI-Powered Edge Devices</b>
-</p>
 
 ---
 
@@ -22,19 +20,37 @@ Name: Ritik Dhiman
 Role:
   Hardware & Embedded Systems Engineer
 
-Specialization:
+Focus Areas:
   - Microcontroller Development
   - Pre-Silicon Validation
   - Post-Silicon Validation
   - Embedded Firmware Development
   - Serial Interface Technologies
-  - AI & Edge Intelligence
-  - IoT Systems
+  - Internet of Things (IoT)
+  - Artificial Intelligence
   - Computer Vision
-  - Industrial Automation
+  - Automation Systems
 
-Passion:
-  Building reliable, intelligent, and scalable systems.
+Mission:
+  Designing reliable, intelligent, and scalable technologies.
+```
+
+---
+
+## 🚀 Areas of Interest
+
+<div align="center">
+
+| Hardware | Embedded | Intelligence |
+|----------|----------|--------------|
+| 🔬 Silicon Validation | ⚡ Firmware Development | 🧠 Artificial Intelligence |
+| 📡 Serial Interfaces | 🔧 Microcontrollers | 👁️ Computer Vision |
+| 🛠️ Hardware Debugging | 🌐 IoT Systems | 🤖 Automation |
+| 🧪 System Testing | 🚀 Edge Computing | 🏭 Smart Devices |
+
+</div>
+
+---
 
 ## 💻 Tech Stack
 
@@ -44,7 +60,7 @@ Passion:
 ![Embedded C](https://img.shields.io/badge/Embedded_C-000000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-### Microcontrollers & Hardware
+### Hardware & Embedded
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
@@ -58,7 +74,7 @@ Passion:
 ![CAN](https://img.shields.io/badge/CAN-F39C12?style=for-the-badge)
 ![USB](https://img.shields.io/badge/USB-2ECC71?style=for-the-badge)
 
-### AI | IoT | Vision
+### AI • IoT • Vision
 
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-00C853?style=for-the-badge)
@@ -67,30 +83,30 @@ Passion:
 
 ---
 
-## 📊 Current Focus
+## 🎯 Current Focus
 
 ```text
-Microcontroller Development     ████████████████████ 100%
-Pre/Post Silicon Validation     ███████████████████░ 95%
-Embedded Systems                ███████████████████░ 95%
-Serial Interfaces               ███████████████████░ 95%
-IoT Solutions                   ██████████████████░░ 90%
-Computer Vision                 ████████████████░░░░ 80%
-AI at the Edge                  ███████████████░░░░░ 75%
-Automation                      █████████████████░░░ 85%
+⚡ Microcontroller Development
+🔬 Pre-Silicon & Post-Silicon Validation
+📡 Serial Interface Protocols
+🛠️ Embedded Firmware Development
+🌐 IoT & Connected Systems
+👁️ Computer Vision Applications
+🧠 Edge AI Solutions
+🤖 Intelligent Automation
 ```
 
 ---
 
-## 🧠 Technology Mind Map
+## 🧠 Technology Map
 
 ```mermaid
 mindmap
   root((Ritik Dhiman))
     Hardware Engineering
-      Microcontrollers
       Silicon Validation
       Serial Interfaces
+      Microcontrollers
     Embedded Systems
       Firmware
       RTOS
@@ -99,8 +115,8 @@ mindmap
       Edge AI
       Computer Vision
     Automation
-      Smart Systems
-      Industrial Automation
+      Smart Devices
+      Industrial Systems
 ```
 
 ---
@@ -123,29 +139,11 @@ mindmap
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
-> Enable GitHub Actions first, then add the Snake workflow.
+> Enable the Snake GitHub Action to generate this automatically.
 
 ![Snake animation](https://github.com/ritikdh044/ritikdh044/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Mission
-
-```text
-Design Hardware
-      ↓
-Validate Silicon
-      ↓
-Develop Firmware
-      ↓
-Connect Everything
-      ↓
-Add Intelligence
-      ↓
-Automate the Future
-```
 
 ---
 
