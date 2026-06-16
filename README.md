@@ -88,35 +88,12 @@ Mission:
 ```text
 ⚡ Microcontroller Development
 🔬 Pre-Silicon & Post-Silicon Validation
-📡 Serial Interface Protocols
+📡 Serial Interface Protocols (I2C, SPI, UART, CAN, USB)
 🛠️ Embedded Firmware Development
 🌐 IoT & Connected Systems
 👁️ Computer Vision Applications
 🧠 Edge AI Solutions
 🤖 Intelligent Automation
-```
-
----
-
-## 🧠 Technology Map
-
-```mermaid
-mindmap
-  root((Ritik Dhiman))
-    Hardware Engineering
-      Silicon Validation
-      Serial Interfaces
-      Microcontrollers
-    Embedded Systems
-      Firmware
-      RTOS
-      IoT
-    Artificial Intelligence
-      Edge AI
-      Computer Vision
-    Automation
-      Smart Devices
-      Industrial Systems
 ```
 
 ---
@@ -136,14 +113,6 @@ mindmap
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikdh044&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-> Enable the Snake GitHub Action to generate this automatically.
-
-![Snake animation](https://github.com/ritikdh044/ritikdh044/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
