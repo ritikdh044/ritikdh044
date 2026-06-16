@@ -31,7 +31,7 @@ Focus Areas:
   - Computer Vision
   - Automation Systems
 
-Mission:
+Goal:
   Designing reliable, intelligent, and scalable technologies.
 ```
 
